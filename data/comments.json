@@ -1,0 +1,10 @@
+[
+  { "id": 1, "post_id": 1, "body": "Optional chaining sounds good." },
+  { "id": 2, "post_id": 1, "body": "The pipeline operator is gonna make chaining function calls much easier!" },
+  { "id": 3, "post_id": 2, "body": "My framework is better than yours!" },
+  { "id": 4, "post_id": 2, "body": "Nest looks very promising." },
+  { "id": 5, "post_id": 2, "body": "Express is still one of the most widespread Node frameworks out there." },
+  { "id": 6, "post_id": 3, "body": "I prefer not to use a framework, because I like to write code nobody understands!" },
+  { "id": 7, "post_id": 3, "body": "Learning a new framework isn't that hard once you already know one!" },
+  { "id": 8, "post_id": 3, "body": "You have to pick the right tool for the job." }
+]
